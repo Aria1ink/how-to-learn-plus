@@ -24,6 +24,11 @@
 @import url(../blocks/cards/cards__image.css);
 @import url(../blocks/cards/cards__description.css);
 @import url(../table/__cell/table__cell_theme_dark.css);
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/table__cell.css);
+@import url(../blocks/table/table__heading.css);
+@import url(../blocks/table/table__text.css);
 @font-face {
     font-family: Inter;
     src: url(../fonts/Inter-Regular.woff) format('woff'),
