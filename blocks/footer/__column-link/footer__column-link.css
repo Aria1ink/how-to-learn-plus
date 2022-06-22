@@ -4,6 +4,7 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
+  margin-bottom: 10px; 
 }
 .footer__column-link:first-of-type {
   margin-top: 20px;

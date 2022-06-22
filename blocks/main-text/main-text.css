@@ -1,9 +1,9 @@
+@import url(./__paragraph/main-text__paragraph.css);
+@import url(./_text/main-text_text_bold.css);
 .main-text {
   width: 80%;
   min-width: 784px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-   
-  border: 1px solid red ;
 }
