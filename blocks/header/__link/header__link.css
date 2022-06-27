@@ -1,7 +1,7 @@
-.resources__link {
+.header__link {
   opacity: 100%;
 }
-.resources__link:hover {
+.header__link:hover {
     opacity: 60%;
     transition: opacity ease;
   }

@@ -5,10 +5,15 @@
   font-size: 18px;
   font-weight: normal;
   margin-bottom: 10px; 
+  opacity: 100%;
   }
 .footer__column-links:first-of-type {
   margin-top: 20px;
   }
 .footer__column-links:last-of-type {
   margin-bottom: 16px;
+  }
+  .footer__column-links:hover {
+    opacity: 60%;
+    transition: opacity ease;
   }
