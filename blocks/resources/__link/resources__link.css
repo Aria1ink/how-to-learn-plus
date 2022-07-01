@@ -4,6 +4,6 @@
   text-decoration: none;
 }
 .resources__link:hover {
-    opacity: 60%;
-    transition: opacity ease;
-  }
+  opacity: 60%;
+  transition: opacity ease;
+}

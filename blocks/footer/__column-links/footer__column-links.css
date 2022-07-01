@@ -13,7 +13,7 @@
 .footer__column-links:last-of-type {
   margin-bottom: 16px;
   }
-  .footer__column-links:hover {
+.footer__column-links:hover {
     opacity: 60%;
     transition: opacity ease;
-  }
+}
