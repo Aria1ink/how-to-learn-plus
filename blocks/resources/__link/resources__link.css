@@ -1,5 +1,7 @@
 .resources__link {
   opacity: 100%;
+  color: #2f80ed;
+  text-decoration: none;
 }
 .resources__link:hover {
     opacity: 60%;
