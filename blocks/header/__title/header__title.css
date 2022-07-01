@@ -7,4 +7,5 @@
   font-weight: 700;
   text-decoration: none;
   line-height: 96px;
+  z-index: 1;
 }
