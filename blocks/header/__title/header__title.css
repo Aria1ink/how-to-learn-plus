@@ -1,7 +1,6 @@
 .header__title {
   width: 730;
-  margin-left: 64px;
-  align-self: center;
+  padding-left: 64px;
   font-family: 'Inter', 'Arial', sans-serif;
   font-size: 102px;
   font-weight: 600;
