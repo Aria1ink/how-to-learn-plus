@@ -1,5 +1,8 @@
 # how-to-learn-plus
 how-to-learn-plus
+<hr>
+HTML, CSS
+<hr>
 
 [Стандарты](https://code.s3.yandex.net/web-developer/static/design-rules/index.html)
 
