@@ -1,7 +1,9 @@
 .footer {
-  width: 90%;
-  background-color: black;
+  width: 100%;
   min-height: 350px;
-  margin: 0 auto;
-  position: relative;
+  height: 100%;
+  padding: 60px 0 40px 0;
+  display: block;
+  box-sizing: border-box;
+  background-color: rgb(31, 31, 31);
 }
