@@ -4,14 +4,15 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
-  margin-bottom: 10px; 
+  padding-bottom: 10px; 
   opacity: 100%;
+  margin: 0;
 }
 .footer__column-link:first-of-type {
-  margin-top: 20px;
+  padding-top: 20px;
 }
 .footer__column-link:last-of-type {
-  margin-bottom: 16px;
+  padding-bottom: 16px;
 }
 .footer__column-link:hover {
   opacity: 60%;
