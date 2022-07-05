@@ -4,16 +4,10 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
-  padding-bottom: 10px; 
   opacity: 100%;
-  margin: 0;
+  list-style-type: none;
 }
-.footer__column-link:first-of-type {
-  padding-top: 20px;
-}
-.footer__column-link:last-of-type {
-  padding-bottom: 16px;
-}
+
 .footer__column-link:hover {
   opacity: 60%;
   transition: opacity ease;
